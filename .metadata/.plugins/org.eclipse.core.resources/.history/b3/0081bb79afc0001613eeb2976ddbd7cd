@@ -1,0 +1,18 @@
+package day1.examples;
+
+import java.util.TreeSet;
+
+public class ExampleFor {
+
+	public static void main(String[] args) {
+		Integer a = new Integer(1);
+		Integer b = new Integer(3);
+		Integer c = new Integer(2);
+		TreeSet ts = new TreeSet();
+		ts.add(a);
+		ts.add(b);
+		ts.add(c);
+		System.out.println(ts);
+	}
+
+}

@@ -1,0 +1,9 @@
+
+public class QB {
+
+	public static void main(String[] args) {
+		System.out.println("Enter player's completions: ");
+		double comp=input.nextDouble();
+	}
+
+}

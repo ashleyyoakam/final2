@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="587" key="DIALOG_WIDTH"/>
+	<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+	<item value="523" key="DIALOG_HEIGHT"/>
+	<item value="251" key="DIALOG_X_ORIGIN"/>
+	<item value="38" key="DIALOG_Y_ORIGIN"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/CISC181/Lab6Start.git"/>
+		<item value="https://github.com/CISC181/Lab5Starter.git"/>
+		<item value="https://github.com/tstbag/MidtermStarter.git"/>
+		<item value="https://github.com/ashleyyoakam/LAB1.git"/>
+		<item value="https://github.com/CISC181/PS1Starter"/>
+		<item value="https://github.com/CISC181/PS1Starter.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="ashleyyoakam &lt;ashleyyoakam@ashleys-mbp.fios-router.home&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-184-125.host.udel.edu&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-186-234.host.udel.edu&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-150-9.host.udel.edu&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-191-206.host.udel.edu&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="ashleyyoakam &lt;ashleyyoakam@ashleys-mbp.fios-router.home&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-184-125.host.udel.edu&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-186-234.host.udel.edu&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-150-9.host.udel.edu&gt;"/>
+		<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-191-206.host.udel.edu&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="650" key="DIALOG_WIDTH"/>
+		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="440" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="23" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/ashleyyoakam/Documents/workspace/Quiz3/.git">
+			<item value="false"/>
+			<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-150-9.host.udel.edu&gt;"/>
+			<item value="commit 1"/>
+			<item value="ashleyyoakam &lt;ashleyyoakam@wifi-roaming-128-4-150-9.host.udel.edu&gt;"/>
+			<item value="593e51d7f8b8cb6f9beda22ff2d172552c0209d7"/>
+		</list>
+		<list key="/Users/ashleyyoakam/git/PS1Starter/.git">
+			<item value="false"/>
+			<item value="ashleyyoakam &lt;ashleyyoakam@ashleys-mbp.fios-router.home&gt;"/>
+			<item value="ashley yoakam "/>
+			<item value="ashleyyoakam &lt;ashleyyoakam@ashleys-mbp.fios-router.home&gt;"/>
+			<item value="eb1a5a78d6951a199e308638ba242de0b52ba5d5"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

@@ -18,9 +18,7 @@ public class RateBLL {
 		
 		return rate;
 		
-		
 	}
-	
 	
 	
 	public static double getPayment(double r, double n, double p, double f, boolean t)

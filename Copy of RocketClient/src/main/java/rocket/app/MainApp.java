@@ -143,6 +143,7 @@ public class MainApp extends Application {
 			super.send(message);
 		}
 
+		
 		@Override
 		protected void messageReceived(final Object message) {
 			Platform.runLater(() -> {
